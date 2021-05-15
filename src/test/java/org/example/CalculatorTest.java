@@ -7,4 +7,6 @@ public class CalculatorTest {
     public void it_should_added_two_number(){
         System.out.println();
     }
+
 }
+
